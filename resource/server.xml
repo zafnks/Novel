@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ChapterService>
+    <!-- 88读书网 -->
+<!--     <service class="com.zafnks.web.bbdushu.BbDuShuChapterService"></service> -->
+    <!-- 88读书网 -->
+    <service class="com.zafnks.web.miaobige.MiaoBiGeChapterService"></service>
+    <!-- UC书盟 -->
+    <service class="com.zafnks.web.uctxt.UCTxtChapterService"></service>
+</ChapterService>
